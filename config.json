@@ -1,0 +1,8 @@
+{
+  "server": {
+    "ip": "127.0.0.1",
+    "port": 9000,
+    "server_threads": 4,
+    "client_threads": 8
+  }
+}
